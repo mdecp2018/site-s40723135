@@ -2,7 +2,6 @@
   position: relative;
 }
 header{
-  background: #ccc;
   padding: 20px;
 }
 confmenu
@@ -201,6 +200,8 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url(http://pic1.win4000.com/wallpaper/c/51593661a65fa.jpg);
   margin-bottom: 120px;
+  background-size:100%
 }
 
